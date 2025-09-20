@@ -1,0 +1,1 @@
+console.log("File JavaScript terhubung dengan sukses!");
